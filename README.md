@@ -1,4 +1,4 @@
-# react-simple-app-with-validation
+# Simple react App with Validation
 
 This easy react app build to try the following concepts in react.
  - Props
